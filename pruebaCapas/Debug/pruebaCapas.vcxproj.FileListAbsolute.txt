@@ -1,0 +1,11 @@
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.vcxproj.AssemblyReference.cache
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.Form1.resources
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.vcxproj.GenerateResource.cache
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.exe
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.vcxproj.CopyComplete
+C:\Users\prile\source\repos\pruebaCapas\Debug\System.Memory.dll
+C:\Users\prile\source\repos\pruebaCapas\Debug\System.Numerics.Vectors.dll
+C:\Users\prile\source\repos\pruebaCapas\Debug\System.Buffers.dll
+C:\Users\prile\source\repos\pruebaCapas\Debug\modelo.pdb
+C:\Users\prile\source\repos\pruebaCapas\Debug\controlador.pdb
+C:\Users\prile\source\repos\pruebaCapas\Debug\pruebaCapas.MENUuser.resources
